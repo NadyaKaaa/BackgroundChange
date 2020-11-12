@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BackgroundChange</string>
+    <string name="message">Хотите поменять цвет фона?</string>
+    <string name="red">Красный</string>
+    <string name="green">Зелёный</string>
+    <string name="yellow">Жёлтый</string>
+</resources>
